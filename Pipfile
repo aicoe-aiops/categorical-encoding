@@ -11,6 +11,17 @@ Sphinx = "*"
 [packages]
 src = {editable = true, path = "./"}
 awscli = "*"
+category-encoders = "*"
+dirty-cat = "*"
+fasttext = "==0.9.1"
+insights-core = "*"
+pandas = "*"
+s3fs = "*"
+scipy = "*"
+sklearn = "*"
+lightgbm = "*"
+xgboost = "*"
+Keras = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.6"
