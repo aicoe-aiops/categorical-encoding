@@ -1,0 +1,11 @@
+category-encoders
+dirty-cat
+fasttext==0.9.1
+insights-core
+keras
+pandas
+s3fs
+scipy
+sklearn
+lightgbm
+xgboost
