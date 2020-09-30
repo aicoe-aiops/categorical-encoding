@@ -1,3 +1,0 @@
-[submodule "notebooks/source"]
-	path = notebooks/source
-	url = https://github.com/Shreyanand/string_categorical_encoders.git
