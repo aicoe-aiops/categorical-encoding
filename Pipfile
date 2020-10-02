@@ -16,12 +16,14 @@ dirty-cat = "*"
 fasttext = "==0.9.1"
 insights-core = "*"
 pandas = "*"
-s3fs = "*"
+s3fs = "==0.4.2"
+fsspec = "*"
 scipy = "*"
 sklearn = "*"
 lightgbm = "*"
 xgboost = "*"
 Keras = "*"
+string-categorical-encoders = {git = "https://github.com/Shreyanand/string_categorical_encoders.git", ref="44eebd9d5ff9573e63ccc9e1e25b7abb5e0ff109"}
 
 [requires]
 python_version = "3.6"
