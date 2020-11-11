@@ -5,7 +5,7 @@ check:
   - thoth-build
 build:
   build-stratergy: Source
-  build_source_script: "image:///opt/app-root/builder"
+  build-source-script: "image:///opt/app-root/builder"
   base-image: quay.io/thoth-station/s2i-custom-notebook:latest
   custom-tag: latest
   registry: quay.io
