@@ -215,7 +215,7 @@ Encoding nominal categorical variables in unsupervised learning problems while o
 1. Visit https://jupyterhub-opf-jupyterhub.apps.cnv.massopen.cloud/hub/login
 2. Login with your google account
 3. In this Spawn screen, select s2i-categorical-encoding-notebook:latest, in the memory size select Large ( Memory: 8Gi, CPU 2)
-4. Once your server starts, go into the directory named notebooks-yyyy-mm-dd-hh-mm/demo
+4. Once your server starts, go into the directory named categorical-encoding-yyyy-mm-dd-hh-mm/demo
 5. Run the notebook named demo.ipynb
 
 #### How to Contribute / Provide feedback
