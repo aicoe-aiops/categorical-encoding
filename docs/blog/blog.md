@@ -30,7 +30,7 @@ Red Hat collects systems data from RHEL and Openshift subscribers. A lot of thes
 
 The following video presents a brief description of the project and how to get started.
 
-`video: https://www.youtube.com/embed/2Xc9gXyf2G4`
+`video: https://youtu.be/9zOSg3KANDA`
 
 ## Encoding
 
