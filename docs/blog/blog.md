@@ -7,9 +7,10 @@ _Authors:_ Shrey Anand, AICoE
 
 _Date Created:_ 10th September 2020
 
-_Date Updated:_ 10th September 2020
+_Date Updated:_ 23rd March 2021
 
 _Tags:_ Categorical encoding, unsupervised learning, word embeddings, tabular data, nominal categorical variables, explainability, decision making
+
 
 ## Introduction
 
@@ -26,6 +27,10 @@ In this blog, we focus on encoding schemes for nominal categorical variables. Fi
 #### Impact
 
 Red Hat collects systems data from RHEL and Openshift subscribers. A lot of these data points are nominal categorical such as the CPU model name: _Intel Xeon CPU E5-2643_, _Intel Xeon Platinum 8175M_, _AMD Opteron Processor 6176 SE_. Other examples include categorical variables in Linux configuration files, product names, alert names, and various log files keys. The artifacts derived from these experiments can directly benefit unsupervised problems with these datasets.
+
+The following video presents a brief description of the project and how to get started.
+
+`video: https://www.youtube.com/embed/2Xc9gXyf2G4`
 
 ## Encoding
 
@@ -212,7 +217,7 @@ Encoding nominal categorical variables in unsupervised learning problems while o
 
 #### Steps to get you started:
 
-1. Visit https://jupyterhub-opf-jupyterhub.apps.cnv.massopen.cloud/hub/login
+1. Visit https://jupyterhub-opf-jupyterhub.apps.zero.massopen.cloud/hub/login
 2. Login with your google account
 3. In this Spawn screen, select s2i-categorical-encoding-notebook:latest, in the memory size select Large ( Memory: 8Gi, CPU 2)
 4. Once your server starts, go into the directory named categorical-encoding-yyyy-mm-dd-hh-mm
