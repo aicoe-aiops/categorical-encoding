@@ -3,11 +3,7 @@ title: Categorical Encoding
 description: "Categorical Encoding"
 ---
 
-_Authors:_ Shrey Anand, AICoE
-
-_Date Created:_ 10th September 2020
-
-_Date Updated:_ 23rd March 2021
+_Authors:_ Shrey Anand (shanand@redhat.com)
 
 _Tags:_ Categorical encoding, unsupervised learning, word embeddings, tabular data, nominal categorical variables, explainability, decision making
 
@@ -213,18 +209,8 @@ Encoding nominal categorical variables in unsupervised learning problems while o
 
 \[8\] [Isolation forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tkdd11.pdf)
 
-### Project Material
+* **[Get Started](./get-started.md)**
 
-#### Steps to get you started:
+* **[How to Contribute](./contribute.md)**
 
-1. Visit https://jupyterhub-opf-jupyterhub.apps.zero.massopen.cloud/hub/login
-2. Login with your google account
-3. In this Spawn screen, select s2i-categorical-encoding-notebook:latest, in the memory size select Large ( Memory: 8Gi, CPU 2)
-4. Once your server starts, go into the directory named categorical-encoding-yyyy-mm-dd-hh-mm
-5. Go to `notebooks/demo` and run the notebook named demo.ipynb
-
-#### How to Contribute / Provide feedback
-
-- Github Repository: [https://github.com/aicoe-aiops/categorical-encoding](https://github.com/aicoe-aiops/categorical-encoding)
-- You can open up a PR on the Git Repository highlighting the feature or issue, and we will address it.
-- You can also reach out to shanand@redhat.com for any questions.
+* **[Project Content](./content.md)**
